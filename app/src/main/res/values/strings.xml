@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson_39</string>
+    <string name="button1">ADD FRAGM1</string>
+    <string name="button2">ADD FRAGM2</string>
+    <string name="button3">ADD FRAGM3</string>
+    <string name="text1">Fragment 1</string>
+    <string name="btn_frag_1">Button</string>
+    <string name="text2">Fragment 2</string>
+    <string name="btn_frag_2">Button</string>
+    <string name="btn_frag_3">Button</string>
+    <string name="text3">Fragment 3</string>
+</resources>
